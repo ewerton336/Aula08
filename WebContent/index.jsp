@@ -12,7 +12,6 @@
         <p> demo de uso de atributos por contexto </p>
    
         
-        
      <%@include file="WEB-INF/jspf/footer.jspf" %>
     </body>	
 </html>
